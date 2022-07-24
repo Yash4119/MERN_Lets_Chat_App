@@ -21,15 +21,13 @@
 
 ![Signup](https://user-images.githubusercontent.com/81731490/180642714-431118aa-f642-47ea-a60d-f7be207507a5.jpg)
 
-
 <h3>Login Page</h3>
 
 ![Login](https://user-images.githubusercontent.com/81731490/180642707-68d53784-2a48-47cf-9509-0adc4ed64dad.jpeg)
 
-
 <h3>Chat Page</h3>
 
-
+![One on One Chatting](https://user-images.githubusercontent.com/81731490/180642825-de2fcfdb-16ee-4557-8c4e-9a9247e62615.jpeg)
 
 <h3>User Profile</h3>
 
@@ -39,9 +37,6 @@
 
 ![Search Users](https://user-images.githubusercontent.com/81731490/180642721-aa061c2c-d3b0-4bcb-8c94-ee9012873e56.jpeg)
 
-<h3>SideDrawer Displaying Chats</h3>
-
-![One on One Chatting](https://user-images.githubusercontent.com/81731490/180642760-7d56f3e5-f094-4047-954d-ee245c8854c0.jpeg)
 
 <h3>Create Group Chat</h3>
 
